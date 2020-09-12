@@ -4,6 +4,8 @@ Easy-HTML Producer is Quick-HTML Code Generator along with SEO Optimizations wit
 
 ###### Current Features
 - SEO/No SEO HTML Code Producer
+- Site Options Settings
+- Integrated-Editor
 
 ###### Upcoming Features
  - [ ] Advanced CSS/PHP/HTML Codes
@@ -21,10 +23,10 @@ Stable version is in "/stable" &nbsp; <br/>
 
 ###### Contributing
 If you'd like to contribute, Feel Free to do that. Just couple of notes 
- - **Your code should have comments to explain **
+ - **Your code should have comments to explain**
  - **Your brackets style should be clear to read**
  - **Put some whitespace in Conditions, Functions**
 
 ###### Written in
-> C# - WinForm
+> C# - WinForm <br>
 > HTML
