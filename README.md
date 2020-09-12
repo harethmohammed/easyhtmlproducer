@@ -7,9 +7,12 @@ Easy-HTML Producer is Quick-HTML Code Generator along with SEO Optimizations wit
 
 ###### Upcoming Features
  - [ ] Advanced CSS/PHP/HTML Codes
- - [ ] More Features
- - [ ] Advanced Settings
+ - [x] More Features
+ - [x] Advanced Settings
  - [ ] Live-Code Preview
+  
+###### Screenshot
+![App](https://i.ibb.co/PDfPm1j/Capture.jpg)
   
 ###### How to edit Source code?
 Source code are located in the folder "/src" &nbsp; <br/>
