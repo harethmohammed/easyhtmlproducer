@@ -25,13 +25,15 @@ namespace HTMLProducer
 
             /* No options String */
             string defCode =
-               "<!DOCTYPE html> \n <html> \n <head> \n <meta charset='UTF-8'> \n \n <title> Sample </title> \n </head> \n \n <body> \n </body> \n </html>";
+               "<!DOCTYPE html> \n <html> \n <head> \n <meta charset='UTF-8'> \n \n <title> Sample </title> \n </head> \n \n <body> \n </body> \n <style> body \n { font-family:" + textBox9.Text + ";background-color:" + textBox10.Text +";color:"+textBox11.Text+";margin:"+textBox13.Text+";padding:"+textBox14.Text+"} \n </style>\n </html>";
 
             
             if (checkBox1.Checked == false)
             {
                 // Copy default code to clipboard
-                Clipboard.SetText(defCode);
+                defCode  = "<!DOCTYPE html> \n <html> \n <head> \n <meta charset='UTF-8'> \n \n <title> Sample </title> \n </head> \n \n <body> \n </body> \n <style> body \n { font-family:" + textBox9.Text + ";background-color:" + textBox10.Text + ";color:" + textBox11.Text + ";margin:" + textBox13.Text + ";padding:" + textBox14.Text + "} \n </style>\n </html>";
+                fastColoredTextBox1.Text = defCode;
+             
 
             } else if(checkBox1.Checked == true)
             {
@@ -45,23 +47,23 @@ namespace HTMLProducer
                 keyword = textBox4.Text;
 
                 // Intiliaze them in the string
-                seoCode = "<!DOCTYPE html> \n <html> \n <head> \n <title>" + title + "</title> \n <meta charset='UTF-8'> \n <meta name='description' content='" + desc + "'> \n <meta name='author' content='" + author + "'> \n <meta name='keywords' content='" + keyword + "'> \n   \n </head> \n \n <body> \n </body> \n </html>";
-                Clipboard.SetText(seoCode);
+                seoCode = "<!DOCTYPE html> \n <html> \n <head> \n <title>" + title + "</title> \n <meta charset='UTF-8'> \n <meta name='description' content='" + desc + "'> \n <meta name='author' content='" + author + "'> \n <meta name='keywords' content='" + keyword + "'> \n   \n </head> \n \n <body> \n </body> \n  <style> body \n { font-family:" + textBox9.Text + ";background-color:" + textBox10.Text + ";color:" + textBox11.Text + ";margin:" + textBox13.Text + ";padding:" + textBox14.Text + "} \n </html>";
+                
+                fastColoredTextBox1.Text = seoCode;
             }
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            // Change Form Size so +SEO Options will appear
+           
             if (checkBox1.Checked)
             {
 
-                // SEO Ticked
-                this.Size = new System.Drawing.Size(343, 306);
+                groupBox1.Enabled = true;
             } else
             {
                 // No SEO Ticked
-                this.Size = new System.Drawing.Size(343, 113);
+                groupBox1.Enabled = false;
             }
         }
     }

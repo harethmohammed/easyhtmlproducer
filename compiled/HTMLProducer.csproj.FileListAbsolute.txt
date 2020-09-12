@@ -8,3 +8,5 @@ C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.cspr
 C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.csproj.CoreCompileInputs.cache
 C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.exe
 C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.pdb
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\bin\Debug\FastColoredTextBox.dll
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.csproj.CopyComplete
