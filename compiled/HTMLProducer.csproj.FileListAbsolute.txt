@@ -1,0 +1,10 @@
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\bin\Debug\HTMLProducer.exe.config
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\bin\Debug\HTMLProducer.exe
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\bin\Debug\HTMLProducer.pdb
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.csprojAssemblyReference.cache
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.Form1.resources
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.Properties.Resources.resources
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.csproj.GenerateResource.cache
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.csproj.CoreCompileInputs.cache
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.exe
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.pdb
