@@ -12,9 +12,9 @@ Easy-HTML Producer is Quick-HTML Code Generator along with SEO Optimizations wit
  - [ ] Live-Code Preview
   
 ###### How to edit Source code?
-Source code are located in the folder "/src" &nbsp;
-Compiled and latest version is in "/compiled" &nbsp;
-Stable version is in "/stable" &nbsp;
+Source code are located in the folder "/src" &nbsp; <br/>
+Compiled and latest version is in "/compiled" &nbsp; <br/>
+Stable version is in "/stable" &nbsp; <br/>
 
 ###### Contributing
 If you'd like to contribute, Feel Free to do that. Just couple of notes 
