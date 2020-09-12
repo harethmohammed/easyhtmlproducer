@@ -6,8 +6,10 @@ Easy-HTML Producer is Quick-HTML Code Generator along with SEO Optimizations wit
 - SEO/No SEO HTML Code Producer
 
 ###### Upcoming Features
-- Basic <header>, <footer>, div> Styless
-- Auto-keywords Scrapper for Certain Categories
+ - [ ] Advanced CSS/PHP/HTML Codes
+ - [ ] More Features
+ - [ ] Advanced Settings
+ - [ ] Live-Code Preview
   
 ###### How to edit Source code?
 Source code are located in the folder "/src"
