@@ -10,3 +10,5 @@ C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.exe
 C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.pdb
 C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\bin\Debug\FastColoredTextBox.dll
 C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\obj\Debug\HTMLProducer.csproj.CopyComplete
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\bin\Debug\SkinSoft.VisualStyler.dll
+C:\Users\Moha\source\repos\HTMLProducer\HTMLProducer\bin\Debug\SkinSoft.VisualStyler.xml
